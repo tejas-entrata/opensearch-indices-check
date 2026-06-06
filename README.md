@@ -1,0 +1,1 @@
+# opensearch-indices-check
